@@ -1,5 +1,5 @@
 {
-  "name": "udagram-api",
+  "name": "udagram-users",
   "version": "2.0.0",
   "description": "",
   "main": "src/server.js",
@@ -13,7 +13,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "Gabriel Ruttner",
+  "author": "Ben Rodarte",
   "license": "ISC",
   "dependencies": {
     "@types/bcrypt": "^3.0.0",
